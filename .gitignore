@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
+3. Individual Assignment - Semantic Search & LLM Application.md
